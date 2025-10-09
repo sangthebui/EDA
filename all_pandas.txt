@@ -140,6 +140,7 @@
  'value_counts',
  'wide_to_long']
 
+//DataFrame
  ['T',
  '_AXIS_LEN',
  '_AXIS_ORDERS',
